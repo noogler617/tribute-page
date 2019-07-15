@@ -9,6 +9,10 @@ h3 {
 
 }
 
+p {
+  margin: 100px 100px;
+}
+
 ul li {
   list-style-type: none;
 }
